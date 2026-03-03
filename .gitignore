@@ -1,0 +1,36 @@
+# Virtual Environment
+/heartenv
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+
+
+
+
+# Node modules
+/Frontend/node_modules
+
+# Build folders
+/Frontend/build
+/Frontend/dist
+
+
+
+# VS Code
+.vscode/
+
