@@ -92,8 +92,4 @@ There are several ways to improve and extend this project:
 - This project demonstrates **end-to-end development**, from data processing to model deployment in a full-stack environment.  
 
 ---
-
-## References
-
-- [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)  
-- Scikit-learn documentation: [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
